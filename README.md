@@ -56,12 +56,29 @@
    <a href="https://docs.google.com/presentation/d/1gvfYWRYqj2cLM9_pMInEVgGwhiKkGtcZ/edit?usp=sharing&ouid=102353954676654152695&rtpof=true&sd=true"> Презентация </a>
    <a href="https://docs.google.com/document/d/14bxEqB2uHPtATMh6a6iJQcgWK03Pm1fFpgyjSE3e4OE/mobilebasic"> Схема и объяснение решения </a>
 </div>
+
+<div>
+<h1>Gaica - Игровая арена для ИИ</h1>
+  
+  <div align="center">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/gaica.png" alt="Image 4", width="25%">
+  </div>
+   <br>
+   <strong>Проблематика:</strong>
+   <p>
+       В рамках хакатона была поставлена задача разработки интеллектуального игрового агента для динамичной 2D-среды в стиле top-down шутера. Агент получает полное состояние игрового мира, включая позиции игроков, объектов, оружия и препятствий, и должен в реальном времени принимать решения, управляя движением, прицеливанием и действиями персонажа. Несмотря на полную наблюдаемость среды, задача является нетривиальной из-за необходимости обрабатывать состояние и реагировать на него с высокой частотой, учитывать геометрию карты и видимость, а также балансировать между агрессивным и осторожным поведением в условиях высокой цены ошибки.
+   </p>
+   <a>Гитхаб с решением: <i> скоро появится<i></a> 
+    <br>
+   <a href="https://github.com/d0zya/Potfolio/blob/main/certificates/gaica.png">Сертификат</a> 
+    <br>
+</div>
      
 <div>
 <h1>Учебные проекты Школы21 от Сбера</h1>
   
   <div align="center">
-      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/s21.png" alt="Image 4", width="25%">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/s21.png" alt="Image 5", width="25%">
   </div>
    <br>
    <strong>Описание:</strong>
