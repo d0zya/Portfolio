@@ -4,14 +4,14 @@
 <h1>Хакатон от Мэрии Казани</h1>
   
   <div align="center">
-      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/s21hack.png" alt="Image 2", width="50%">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/s21hack.png" alt="Image 1", width="50%">
   </div>
    <br>
    <strong>Проблематика:</strong>
    <p>
         Ручная обработка первичной бухгалтерской документации, поступающей в виде сканов и PDF-файлов, представляет собой трудоёмкий, медленный и подверженный ошибкам процесс из-за человеческого фактора и отсутствия единой структуры данных, что затрудняет автоматизацию, увеличивает время обработки и приводит к задержкам в подготовке отчётности; поэтому требуется разработать интеллектуальную систему автоматического распознавания и верификации документов, которая извлекает ключевые поля из неструктурированных данных, выполняет их валидацию, обеспечивает удобный интерфейс для проверки и корректировки пользователем и формирует структурированные результаты в различных форматах с минимальным участием человека.
    </p>
-   <a href="">Гитхаб с решением</a> 
+   <a>Гитхаб с решением</a> 
     <br>
    <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/s21hackdip.png">Сертификат</a> 
     <br>
@@ -33,7 +33,7 @@
    </p>
    <a href="https://github.com/d0zya/neftecode-2026">Гитхаб с решением</a> 
     <br>
-   <a href="">Сертификат</a> 
+   <a>Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1jIH5WBIEUea7cpA48718IFMog9k3wcwGskP9uBhDGgc/edit?usp=sharing"> Презентация </a>
 </div>
@@ -42,7 +42,7 @@
 <h1>Agentic Longevity Hack</h1>
   
   <div align="center">
-      <img src="https://d0zya/Portfolio/blob/main/hack_imgs/longevity2025.png" alt="Image 2", width="25%">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/longevity2025.png" alt="Image 3", width="25%">
   </div>
    <br>
    <strong>Проблематика:</strong>
@@ -61,7 +61,7 @@
 <h1>Учебные проекты Школы21 от Сбера</h1>
   
   <div align="center">
-      <img src="https://d0zya/Portfolio/blob/main/hack_imgs/s21.png" alt="Image 2", width="25%">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/s21.png" alt="Image 4", width="25%">
   </div>
    <br>
    <strong>Описание:</strong>
