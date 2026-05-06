@@ -70,7 +70,7 @@
    </p>
    <a>Гитхаб с решением: <i> скоро появится<i></a> 
     <br>
-   <a href="https://github.com/d0zya/Potfolio/blob/main/certificates/gaica.png">Сертификат</a> 
+   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/gaica.png">Сертификат</a> 
     <br>
 </div>
      
