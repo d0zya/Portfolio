@@ -54,6 +54,7 @@
    <a href="https://github.com/d0zya/Potfolio/blob/main/certificates/longevity2025">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1gvfYWRYqj2cLM9_pMInEVgGwhiKkGtcZ/edit?usp=sharing&ouid=102353954676654152695&rtpof=true&sd=true"> Презентация </a>
+    <br>
    <a href="https://docs.google.com/document/d/14bxEqB2uHPtATMh6a6iJQcgWK03Pm1fFpgyjSE3e4OE/mobilebasic"> Схема и объяснение решения </a>
 </div>
 
