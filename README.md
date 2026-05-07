@@ -33,7 +33,7 @@
    </p>
    <a href="https://github.com/d0zya/neftecode-2026">Гитхаб с решением</a> 
     <br>
-   <a>Сертификат: <i> ожидается от организаторов <i></a> 
+   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/neftecode2026.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1jIH5WBIEUea7cpA48718IFMog9k3wcwGskP9uBhDGgc/edit?usp=sharing"> Презентация </a>
 </div>
