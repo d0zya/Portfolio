@@ -23,7 +23,7 @@
 <h1>Хакатон от Московской биржи - 3 место</h1>
   
   <div align="center">
-      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/s21hack.png" alt="Image 1", width="50%">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/moex.png" alt="Image 1", width="50%">
   </div>
    <br>
    <strong>Проблематика:</strong>
@@ -33,8 +33,6 @@
    <a href="https://github.com/Serfetto/MOEX-Hackathon">Гитхаб с решением</a> 
     <br>
    <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/moex.png">Сертификат</a> 
-    <br>
-   <a href="https://drive.google.com/file/d/1-2edwfHYa6wvPpILwqwmXj5YVmYHmLlo/view?usp=sharing"> Презентация </a>
     <br>
 </div>
 
