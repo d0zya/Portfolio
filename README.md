@@ -92,6 +92,23 @@
 </div>
      
 <div>
+<h1>SMILE 2026 - исследовательская школа по машинному обучению</h1>
+  
+  <div align="center">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/smile.png" alt="Image 5", width="25%">
+  </div>
+   <br>
+   <strong>Описание:</strong>
+   <p>
+       Участие в международной исследовательской школе SMILE 2026 от Skoltech и Nanjing University. В рамках программы изучал современные методы машинного обучения и работал над исследовательским проектом по управлению поведением больших языковых моделей через их внутренние представления с использованием activation steering и Jacobian Lens. По итогам работы были проведены эксперименты и подготовлена научная статья.
+   </p>
+   <a>Статья: <i> скоро появится<i></a> 
+   <br>
+   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/smile.png">Сертификат</a> 
+    <br>
+</div>
+
+<div>
 <h1>Учебные проекты Школы21 от Сбера</h1>
   
   <div align="center">
