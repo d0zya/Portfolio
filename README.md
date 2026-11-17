@@ -160,3 +160,20 @@
    <a href="https://github.com/d0zya/MLProjectsFromSchool21">Гитхаб с решением</a> 
     <br>
 </div>
+
+<div>
+<h1>Deep Learning School (МФТИ)</h1>
+  
+  <div align="center">
+      <img src="https://github.com/d0zya/Portfolio/blob/main/hack_imgs/dls.png" alt="Image 6", width="25%">
+  </div>
+   <br>
+   <strong>Описание:</strong>
+   <p>
+       В рамках образовательной программы Deep Learning School МФТИ прошёл два курса: Classic ML & Computer Vision и Natural Language Processing (NLP). В процессе обучения изучал классические алгоритмы машинного обучения, современные архитектуры нейронных сетей и подходы к решению задач компьютерного зрения и обработки естественного языка. Практическая часть включала самостоятельную реализацию алгоритмов, обучение моделей, проведение экспериментов и оценку их качества.
+   </p>
+   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/dls1.png">Сертификат 1 (Classic ML & CV)</a> 
+   <br>
+   <a href="https://github.com/d0zya/PortfolioEnglish/blob/main/certificates/dls2.png">Сертификат 2 (NLP)</a> 
+    <br>
+</div>
