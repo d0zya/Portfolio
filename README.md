@@ -13,7 +13,7 @@
    </p>
    <a href="https://github.com/Serfetto/kosmofinal">Гитхаб с решением</a> 
     <br>
-   <a>Сертификат: <i> ожидаем от организаторов <i></a> 
+   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/roscosmos1.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/16fatrF2J_Zf5IjXMaO9lIBVD7YEKhxMp/edit?usp=sharing&ouid=102353954676654152695&rtpof=true&sd=true"> Презентация </a>
     <br>
@@ -51,7 +51,7 @@
    </p>
    <a href="https://github.com/Serfetto/kosmohack2">Гитхаб с решением</a> 
     <br>
-   <a>Сертификат: <i> ожидаем от организаторов <i></a> 
+   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/roscosmos2.png">Сертификат</a> 
     <br>
    <a href="https://drive.google.com/file/d/1RPxG1I8pbkzK3eQZkn69ckMfe-KGGwZ2/view?usp=sharing"> Презентация </a>
     <br>
