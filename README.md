@@ -174,6 +174,6 @@
    </p>
    <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/dls1.png">Сертификат 1 (Classic ML & CV)</a> 
    <br>
-   <a href="https://github.com/d0zya/PortfolioEnglish/blob/main/certificates/dls2.png">Сертификат 2 (NLP)</a> 
+   <a href="https://github.com/d0zya/Portfolio/blob/main/certificates/dls2.png">Сертификат 2 (NLP)</a> 
     <br>
 </div>
